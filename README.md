@@ -17,7 +17,7 @@ This project helps answer:
 
 ## Dashboard Preview
 
-![Talent Acquisition Dashboard](Power%20BI/Dashboard_Screenshot.png)
+![Talent Acquisition Dashboard](Power%20BI/Dashboard.png)
 
 ## Data Cleaning & Preparation
 
