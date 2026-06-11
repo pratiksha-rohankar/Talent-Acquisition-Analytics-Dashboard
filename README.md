@@ -16,8 +16,11 @@ This project helps answer:
 * How effectively are high-performing candidates selected?
 
 ## Dashboard Preview
-
+### Dashboard
 ![Talent Acquisition Dashboard](Power%20BI/Dashboard.png)
+
+### Tooltip
+![Talent Acquisition Dashboard](Power%20BI/Tooltip.png)
 
 ## Data Cleaning & Preparation
 
